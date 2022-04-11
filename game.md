@@ -8,7 +8,7 @@
 7.
 8.
 9.
-10.
+10. The vision melted into waking; and there was Tom whistling like a tree-full of birds; and the sun was already slanting down the hill and through the open window. 
 11.
 12.
 13.
