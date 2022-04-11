@@ -8,7 +8,7 @@
 7.
 8. Out of intense complexities, intense simplicities emerge
 9.
-10.
+10. The vision melted into waking; and there was Tom whistling like a tree-full of birds; and the sun was already slanting down the hill and through the open window..!!
 11.
 12. Where am I? In the Village What do you want? Information Whose side are you on? That would be telling . . . We want Information You won't get it By hook or by crook . . . We will Who are you? The new Number Two Who is Number One? You are Number Six!!
 11. Hello, world. 
