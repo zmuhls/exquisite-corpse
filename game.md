@@ -3,7 +3,7 @@
 2. I felt young when I was old but the reverse is not true
 3. 
 4.
-5.
+5. Wishing for a different future for yesterday's child
 6. However, these pretzels are making me thirsty
 7.
 8. Out of intense complexities, intense simplicities emerge
