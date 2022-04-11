@@ -9,7 +9,7 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/learn
 2. Keep the name of the repository the same but do enclose a brief description of the activity
 3. Press `Create fork`
 4. Navigate to the **game.md** file in your forked verison of this repo
-5. Click the pencil button toward the middle, righthand side of the file (between screen & trash icons)
+5. Click the pencil button to edit the file, located toward the top-right side of the file (between screen & trash icons)
 6. Add a sentence of your choosing in the line number that's been assigned to you
 7. Scroll down to title and summarize your changes, then press `commit changes`
 8. Look for the message that reads "*This branch is 1 commit ahead of zmuhls/exquisite-corpse:main.*" above your forked version
