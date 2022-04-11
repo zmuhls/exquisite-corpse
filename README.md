@@ -1,4 +1,4 @@
-**How about a game of exquisite corpse?**
+**Old-fashioned or exquisite corpse?**
 
 ### Background
 Excerpted from the MoMALearning article [linked here](https://www.moma.org/learn/moma_learning/tanguy-miro-morise-manray-nude/):
