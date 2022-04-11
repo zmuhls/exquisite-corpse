@@ -6,7 +6,7 @@
 5.
 6. However, these pretzels are making me thirsty
 7.
-8.
+8. Out of intense complexities, intense simplicities emerge
 9.
 10.
 11. Hello, world. 
