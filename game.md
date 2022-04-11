@@ -1,10 +1,10 @@
 ## Exquisite Corpse
 1. The rose is concrete
 2. I felt young when I was old but the reverse is not true
-3.
+3. 
 4.
 5.
-6.
+6. However, these pretzels are making me thirsty
 7.
 8.
 9.
