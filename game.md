@@ -5,7 +5,7 @@
 4. I dreamt of the last drop of ice water on the tip of fire
 5. Wishing for a different future for yesterday's child
 6. However, these pretzels are making me thirsty
-7.
+7. Courage isn’t having the strength to go on - it is going on when you don’t have strength.
 8. Out of intense complexities, intense simplicities emerge
 9.
 10. The vision melted into waking; and there was Tom whistling like a tree-full of birds; and the sun was already slanting down the hill and through the open window..!!
