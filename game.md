@@ -1,7 +1,7 @@
 ## Exquisite Corpse
 1. The rose is concrete
 2. I felt young when I was old but the reverse is not true
-3.
+3. The break of the spring too distant
 4. I dreamt of the last drop of ice water on the tip of fire
 5. Wishing for a different future for yesterday's child
 6. However, these pretzels are making me thirsty
