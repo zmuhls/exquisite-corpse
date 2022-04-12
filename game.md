@@ -11,13 +11,4 @@
 10. The vision melted into waking; and there was Tom whistling like a tree-full of birds; and the sun was already slanting down the hill and through the open window..!!
 11. One that had climbed the old blue wagon nibbling the whole time at angular boards
 12. Where am I? In the Village What do you want? Information Whose side are you on? That would be telling . . . We want Information You won't get it By hook or by crook . . . We will Who are you? The new Number Two Who is Number One? You are Number Six!!
-11. Hello, world. 
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+13. Hello, world. 
