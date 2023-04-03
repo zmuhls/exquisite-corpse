@@ -15,7 +15,7 @@
 
 ## Exquisite Corpse (2023)
 1. Here begins the Book of the Tales of Canterbury
-2. 
+2. They call it the tied circle
 3. Twilight and evening bell and after that the dark
 4. 
 5. 
