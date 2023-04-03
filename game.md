@@ -16,7 +16,7 @@
 ## Exquisite Corpse (2023)
 1. Here begins the Book of the Tales of Canterbury
 2. 
-3. 
+3. Twilight and evening bell and after that the dark
 4. 
 5. 
 6.
