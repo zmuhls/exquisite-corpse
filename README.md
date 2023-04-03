@@ -22,7 +22,7 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/colle
 
 7. After I see and accept your pull request, your forked version and its modifications will merge with **game-1.2** in the **base repository**. 
 
-8. Once everyone's submitted their **pulled requests**, I will then merge **game-1.2** with the **main codespace** to cap things off. 
+8. Once everyone's submitted their **pull requests**, I will then merge **game-1.2** with the **main codespace** to cap things off. 
 
 And voila! We're done. 
 

@@ -14,7 +14,7 @@
 13. Hello, world.
 
 ## Exquisite Corpse (2023)
-1. 
+1. Here begins the Book of the Tales of Canterbury
 2. 
 3. 
 4. 
