@@ -14,11 +14,11 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/learn
 
 6. Scroll down, name and summarize your commit, then click **Propose Changes** to the **game-1.2** branch. This will automatically fork **game-1.2** to your GitHub account. 
 
-7. Check to see if your **head repository** — your-username/excquisite-corpose** can be merged automatically with the base repository (**zmuhls/exquisite-corpse**), then click **Create pull request** to propose merging your changes with **game-1.2**. 
+7. Check to see if your **head repository** — your-username/excquisite-corpose** can is set to be merged with the base repository (**zmuhls/exquisite-corpse**), then click **Create pull request** to merge your changes with **game-1.2**. 
 
 9. Give your pull request a title, leave a comment if you want, then click **Create pull request**.
 
-10. If all goes well, I will see and accept your **Pull request** then merge your fork with the **game-1.2** branch. Once your changes have been successfully merged with **game-1.2**, I can then merge that branch with the **main codespace**. 
+10. If all goes well, I will see and accept your **Pull request**, then merge your fork with the **game-1.2** branch. Once your changes have been successfully merged with **game-1.2**, I can then merge that branch with the **main codespace**. 
 
 #### And we're done! 
 
