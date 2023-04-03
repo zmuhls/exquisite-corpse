@@ -6,7 +6,7 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/learn
 
 ### Getting Started
 
-1. Switch from the **main codespace** to the **game-1.2** branch (top-left corner of repo direly under **<>Code**)
+1. Switch from the **main codespace** to the **game-1.2** branch (top-left corner of repo directly under **<>Code**)
 
 2. In the **game-1.2** branch, click **game.md** underneath **README.md** then select the pencil icon to edit the file (top-right corner of the file).
 
