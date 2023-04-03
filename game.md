@@ -17,6 +17,6 @@
 1. Here begins the Book of the Tales of Canterbury
 2. They call it the tied circle
 3. Twilight and evening bell and after that the dark
-4. 
+4. All my life I had to fight
 5. Night seemed never ending
 6. and so we sat wondering if the sun would come up. 
