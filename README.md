@@ -11,8 +11,8 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/learn
 3. Add a sentence of your choosing in the line number that's been assigned to you.
 4. Scroll down to title and summarize your changes, then select the branch 'game-1.1' and press commit changes.
 5. Click the Contribute button to the right of that message, then select Open pull request.
-6. Select the base branch as main and the compare branch as game-1.1.
+6. Select the base branch as main and the compare branch as **game-1.2**.
 7. Click Create pull request toward the righthand side of the screen.
 8. And voila!
 
-As the one with "write access" privileges, I'll see your pull requests and merge the committed changes to the game-1.1 branch with the main repository. Fun, right? 
+As the one with "write access" privileges, I'll see your pull requests and merge the committed changes to the **game-1.2** branch with the main repository. Fun, right? 
