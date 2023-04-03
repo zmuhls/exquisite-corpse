@@ -19,4 +19,4 @@
 3. 
 4. 
 5. 
-6.
+6. and so we sat wondering if the sun would come up. 
