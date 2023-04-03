@@ -10,7 +10,7 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/colle
 
 1. Switch from the **main** codespace to the **game-1.2** branch in the top-left corner of the **zmuhls/exquisite-corpse repository**.
 
-2. In the **game-1.2** branch, select **game.md** underneath the **README.md** file, then click the pencil icon in the top-left corner to edit the file.
+2. In the **game-1.2** branch, select **game.md** underneath the **README.md** file, then click the pencil icon in the top-right corner to edit the file.
 
 3. Add a line of poetry to the number that has been assigned to you!
 
