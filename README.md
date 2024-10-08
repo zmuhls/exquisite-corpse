@@ -8,22 +8,33 @@ Excerpted from the MoMALearning article [linked here](https://www.moma.org/colle
 
 ## How to play exquisite corpse on GitHub
 
-1. Switch from the **main** codespace to the **game-1.2** branch in the top-left corner of the **zmuhls/exquisite-corpse repository**.
+1.	Switch to the game-1.3 branch:
+  •	In the top-left corner of the zmuhls/exquisite-corpse repository, find the branch dropdown (it should say main by default). Click it and select the game-1.3 branch.
+ 
+2.	Edit the game.md file:
+	•	While in the game-1.3 branch, scroll down and find the game.md file (below the README.md file). Click on it, then select the pencil icon in the top-right corner to start editing.
 
-2. In the **game-1.2** branch, select **game.md** underneath the **README.md** file, then click the pencil icon in the top-right corner to edit the file.
+4.	Add your line of poetry:
+	•	Add a line of poetry to the number that’s been assigned to you! Be creative, but make sure to follow the rules of the exquisite corpse game—no peeking at what the others have added.
 
-3. Add a line of poetry to the number that has been assigned to you!
+6.	Commit your changes:
+	•	After adding your line, scroll down to the commit section. Give your commit a name (e.g., “Added line 3”) and a brief summary of what you did (e.g., “Added my assigned line of poetry”).
+	•	Click Propose Changes. This will create a new fork of the game-1.3 branch under your GitHub account, allowing you to submit your changes for review.
 
-4. Name and summarize your commit, then click **Propose Changes** to the **game-1.2** branch. Doing so will automatically fork the **game-1.2** branch of **zmuhls/exquisite-corpse** to your own account so that you can submit a **pull request** for me to review and merge your changes with **game-1.2**.
+8.	Submit a Pull Request (PR):
+	•	After forking the repository, you’ll be redirected to the pull request page. Make sure that your fork (i.e., your-username/exquisite-corpse) is set as the head repository and zmuhls/exquisite-corpse is set as the base repository.
+	•	Verify that you’re proposing to merge your changes into the game-1.3 branch, not main. Then, click Create pull request.
 
-5. Check to see if your **head repository** (your-username/exquisite-corpse) is set to be merged with the **base repository** (zmuhls/exquisite-corpse), then click **Create pull request** to propose merging your changes with **game-1.2**.
+10.	Create and title your pull request:
+	•	Give your pull request a title (e.g., “Alex’s Line for the Exquisite Corpse”). You can also leave a comment if you’d like to explain anything about your contribution, though it’s not required.
+	•	Click Create pull request to submit your changes for review.
 
-6. Give your pull request a title, leave a comment if you want, then click **Create pull request**. 
+12.	Wait for review:
+	•	I will review your pull request, and once I approve it, your line will be merged into the game-1.3 branch. If I need any adjustments, I’ll let you know in the pull request comments.
 
-7. After I see and accept your pull request, your forked version and its modifications will merge with **game-1.2** in the **base repository**. 
+14.	Final merge to the main branch:
+	•	After everyone’s lines are merged into game-1.3, I’ll merge the completed poem with the main branch to finalize the project.
 
-8. Once everyone's submitted their **pull requests**, I will merge **game-1.2** with the **main codespace** to cap things off. 
-
-And voila! We're done. 
+And that’s it! We’ll have a collaboratively written exquisite corpse poem.
 
 Neat, right?
